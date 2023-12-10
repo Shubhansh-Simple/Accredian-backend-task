@@ -1,0 +1,12 @@
+{
+  "name": "accredian-backend-task",
+  "version": "1.0.0",
+  "description": "Backend code of the accredian assignment",
+  "type":"module",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "author": "shubhansh7777@gmail.com",
+  "license": "MIT"
+}
